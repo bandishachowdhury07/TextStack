@@ -34,7 +34,12 @@ It features undo/redo functionality using stacks, a clean and intuitive UI, and 
 
 ## 🖼️ Preview
 
-![App Screenshot](https://via.placeholder.com/1000x500.png?text=Text+Stack+App+Preview) <!-- Replace with actual screenshot if available -->
+<div style="display: flex; flex-direction: column; gap: 20px;">
+  <img src="https://github.com/user-attachments/assets/9658dccf-2dfa-41d5-a7c8-c18c506b175d" alt="image" />
+  <img src="https://github.com/user-attachments/assets/57a52d95-0f77-4163-8a94-d4a279183c3a" alt="image" />
+</div>
+
+
 
 ---
 
