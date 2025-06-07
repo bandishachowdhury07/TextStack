@@ -1,3 +1,6 @@
+![Logo](https://github.com/user-attachments/assets/4e682530-f2ba-4f4b-b8b0-d68c0e762206)
+
+
 # 📝 Text Stack
 
 **Text Stack** is a sleek, stack-based **text editor** built with **React**.  
