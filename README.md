@@ -48,3 +48,6 @@ cd TextStack
 npm install
 npm start
 ```
+
+🙋‍♀️ Author
+Made with ❤️ by Bandisha Chowdhury
