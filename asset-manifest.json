@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextStack/static/css/main.7aee5c5e.css",
+    "main.js": "/TextStack/static/js/main.30f56130.js",
+    "static/js/453.4fdec8dc.chunk.js": "/TextStack/static/js/453.4fdec8dc.chunk.js",
+    "index.html": "/TextStack/index.html",
+    "main.7aee5c5e.css.map": "/TextStack/static/css/main.7aee5c5e.css.map",
+    "main.30f56130.js.map": "/TextStack/static/js/main.30f56130.js.map",
+    "453.4fdec8dc.chunk.js.map": "/TextStack/static/js/453.4fdec8dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7aee5c5e.css",
+    "static/js/main.30f56130.js"
+  ]
+}
